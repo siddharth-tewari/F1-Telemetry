@@ -1,5 +1,5 @@
 # F1 Telemetry 
-It contains files for comparison between two drivers in a Formula 1 race. 
+It contains files for Formula 1 using Python. The data is collected from FastF1. 
 
 # Usage
 1. Clone these files
