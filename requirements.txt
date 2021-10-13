@@ -1,0 +1,5 @@
+matpotlib
+fastf1
+pandas
+numpy
+matplotlib-label-lines
